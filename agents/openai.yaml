@@ -1,0 +1,4 @@
+interface:
+  display_name: "终末地音乐提取"
+  short_description: "根据编号、网络视频或玩家自录片段，定位并提取终末地本地音乐"
+  default_prompt: "请用 $endfield-music-extractor 从我安装的终末地资源中寻找指定音乐，提取为可播放文件并核对来源。"
